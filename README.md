@@ -1,2 +1,2 @@
 # Coupon-Collecting
-Code to solve simple coupon collector problems
+This repository contains basic code to simulate simple coupon collector problems.
