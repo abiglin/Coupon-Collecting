@@ -2,7 +2,7 @@
 % Basic Coupon Collector Problem
 % (One-per-box, equal probability of each coupon)
 % Code Written by: Abigail Rose Drumm
-% DateL February 2025
+% Date: February 2025
 %-----------------------------------------------------
 
 clc; clear; close all
